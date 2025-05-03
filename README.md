@@ -39,8 +39,8 @@ Ensure you have the following dependencies installed:
 - **Custom Training:** Train the model using your dataset for specific object detection needs.
 
 ## Model Information
-- Uses a deep learning-based architecture (YOLO, SSD, or Faster R-CNN)
-- Pre-trained on COCO dataset (or a custom dataset)
+- Uses a deep learning-based architecture
+- Pre-trained on COCO dataset 
 - Outputs bounding boxes, class labels, and confidence scores
 
 ## Dataset
